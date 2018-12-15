@@ -12,7 +12,7 @@ it's create using python3
 ![screenshot from 2018-12-15 08-03-58](https://user-images.githubusercontent.com/45274219/50038175-4d398400-0041-11e9-97af-d2753b506ba7.png)
 ![screenshot from 2018-12-15 08-06-29](https://user-images.githubusercontent.com/45274219/50038176-5296ce80-0041-11e9-9fec-f9c99216e56c.png)
 
-#how to run 
+<h1>how to run</h1> 
  > git clone https://github.com/sandakelum15/locker.git
  
  > cd locker
